@@ -11,3 +11,5 @@ data accuracy and facilitating insights generation.
 
 • Ensured data integrity by implementing quality checks before loading into Amazon S3, streamlining storage
 for scalable analytics.
+
+![ETL Pipeline using Airflow AWS - OpenWeatherMap API](https://github.com/user-attachments/assets/eca5ada0-3bf9-429b-acf9-d30c93a4a164)
